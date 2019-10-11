@@ -1,0 +1,14 @@
+{
+  "name": "kn3sv1-random-number-generator-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kn3sv1-random-number-generator": "github:Kn3sv1/es-demo-random-number-generator"
+  }
+}
